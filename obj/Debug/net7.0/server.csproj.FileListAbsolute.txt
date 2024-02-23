@@ -1,0 +1,1452 @@
+G:\Angular - Copy\server\bin\Debug\net7.0\appsettings.Development.json
+G:\Angular - Copy\server\bin\Debug\net7.0\appsettings.json
+G:\Angular - Copy\server\bin\Debug\net7.0\server.exe
+G:\Angular - Copy\server\bin\Debug\net7.0\server.deps.json
+G:\Angular - Copy\server\bin\Debug\net7.0\server.runtimeconfig.json
+G:\Angular - Copy\server\bin\Debug\net7.0\server.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\server.pdb
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Angular - Copy\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+G:\Angular - Copy\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+G:\Angular - Copy\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+G:\Angular - Copy\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+G:\Angular - Copy\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+G:\Angular - Copy\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+G:\Angular - Copy\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+G:\Angular - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Angular - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+G:\Angular - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+G:\Angular - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+G:\Angular - Copy\server\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Angular - Copy\server\obj\Debug\net7.0\staticwebassets.build.json
+G:\Angular - Copy\server\obj\Debug\net7.0\staticwebassets.development.json
+G:\Angular - Copy\server\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+G:\Angular - Copy\server\obj\Debug\net7.0\server.csproj.CopyComplete
+G:\Angular - Copy\server\obj\Debug\net7.0\server.dll
+G:\Angular - Copy\server\obj\Debug\net7.0\refint\server.dll
+G:\Angular - Copy\server\obj\Debug\net7.0\server.pdb
+G:\Angular - Copy\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+G:\Angular - Copy\server\obj\Debug\net7.0\ref\server.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\mscorlib.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\netstandard.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.AppContext.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Buffers.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Collections.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Configuration.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Console.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Core.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Data.Common.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Data.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Drawing.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Globalization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Linq.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Memory.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Http.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Mail.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Ping.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Quic.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Requests.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Security.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Numerics.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ObjectModel.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Claims.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Principal.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Text.Json.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Transactions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.ValueTuple.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Web.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Windows.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\refs\WindowsBase.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\Npgsql.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular - Copy\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\appsettings.Development.json
+G:\AngularNew\server\bin\Debug\net7.0\appsettings.json
+G:\AngularNew\server\bin\Debug\net7.0\server.exe
+G:\AngularNew\server\bin\Debug\net7.0\server.deps.json
+G:\AngularNew\server\bin\Debug\net7.0\server.runtimeconfig.json
+G:\AngularNew\server\bin\Debug\net7.0\server.dll
+G:\AngularNew\server\bin\Debug\net7.0\server.pdb
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\mscorlib.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\netstandard.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.AppContext.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Buffers.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Collections.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ComponentModel.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Configuration.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Console.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Core.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Data.Common.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Data.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Drawing.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Globalization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.Compression.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Linq.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Memory.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Http.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Mail.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Ping.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Quic.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Requests.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Security.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Numerics.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ObjectModel.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Claims.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Principal.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Text.Json.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Transactions.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.ValueTuple.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Web.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Windows.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+G:\AngularNew\server\bin\Debug\net7.0\refs\WindowsBase.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\AngularNew\server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\AngularNew\server\bin\Debug\net7.0\Npgsql.dll
+G:\AngularNew\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\AngularNew\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\AngularNew\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\AngularNew\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AngularNew\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+G:\AngularNew\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+G:\AngularNew\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+G:\AngularNew\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+G:\AngularNew\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+G:\AngularNew\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+G:\AngularNew\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+G:\AngularNew\server\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\AngularNew\server\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+G:\AngularNew\server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+G:\AngularNew\server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+G:\AngularNew\server\obj\Debug\net7.0\staticwebassets.pack.json
+G:\AngularNew\server\obj\Debug\net7.0\staticwebassets.build.json
+G:\AngularNew\server\obj\Debug\net7.0\staticwebassets.development.json
+G:\AngularNew\server\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+G:\AngularNew\server\obj\Debug\net7.0\server.csproj.CopyComplete
+G:\AngularNew\server\obj\Debug\net7.0\server.dll
+G:\AngularNew\server\obj\Debug\net7.0\refint\server.dll
+G:\AngularNew\server\obj\Debug\net7.0\server.pdb
+G:\AngularNew\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+G:\AngularNew\server\obj\Debug\net7.0\ref\server.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\appsettings.Development.json
+G:\Angular 2.0\server\bin\Debug\net7.0\appsettings.json
+G:\Angular 2.0\server\bin\Debug\net7.0\server.exe
+G:\Angular 2.0\server\bin\Debug\net7.0\server.deps.json
+G:\Angular 2.0\server\bin\Debug\net7.0\server.runtimeconfig.json
+G:\Angular 2.0\server\bin\Debug\net7.0\server.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\server.pdb
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\mscorlib.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\netstandard.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.AppContext.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Buffers.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Collections.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ComponentModel.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Configuration.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Console.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Core.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Data.Common.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Data.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Drawing.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Globalization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.Compression.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Linq.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Memory.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Http.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Mail.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Ping.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Quic.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Requests.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Security.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Numerics.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ObjectModel.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Claims.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Principal.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Text.Json.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Transactions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.ValueTuple.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Web.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Windows.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\refs\WindowsBase.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Npgsql.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+G:\Angular 2.0\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+G:\Angular 2.0\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+G:\Angular 2.0\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+G:\Angular 2.0\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+G:\Angular 2.0\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+G:\Angular 2.0\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+G:\Angular 2.0\server\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Angular 2.0\server\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+G:\Angular 2.0\server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+G:\Angular 2.0\server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+G:\Angular 2.0\server\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Angular 2.0\server\obj\Debug\net7.0\staticwebassets.build.json
+G:\Angular 2.0\server\obj\Debug\net7.0\staticwebassets.development.json
+G:\Angular 2.0\server\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+G:\Angular 2.0\server\obj\Debug\net7.0\server.csproj.CopyComplete
+G:\Angular 2.0\server\obj\Debug\net7.0\server.dll
+G:\Angular 2.0\server\obj\Debug\net7.0\refint\server.dll
+G:\Angular 2.0\server\obj\Debug\net7.0\server.pdb
+G:\Angular 2.0\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+G:\Angular 2.0\server\obj\Debug\net7.0\ref\server.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\appsettings.Development.json
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\appsettings.json
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\server.exe
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\server.deps.json
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\server.runtimeconfig.json
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\server.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\server.pdb
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\mscorlib.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\netstandard.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.AppContext.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Buffers.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Collections.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Configuration.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Console.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Core.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Data.Common.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Data.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Drawing.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Globalization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Linq.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Memory.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Http.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Mail.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Ping.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Quic.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Requests.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Security.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Numerics.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ObjectModel.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Claims.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Principal.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Text.Json.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Transactions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.ValueTuple.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Web.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Windows.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\refs\WindowsBase.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Npgsql.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cs
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.MvcApplicationPartsAssemblyInfo.cache
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\staticwebassets.build.json
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\staticwebassets.development.json
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.build.server.props
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.server.props
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.server.props
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\scopedcss\bundle\server.styles.css
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.csproj.CopyComplete
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.dll
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\refint\server.dll
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.pdb
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+G:\Angular 2.0 - Copy\server\obj\Debug\net7.0\ref\server.dll
