@@ -14,93 +14,112 @@ namespace server.Repository
         }
 
         //Get User Detail
-        public UserModel GetUserDetailAsync(string mobile)
+        public async Task<UserModel> GetUserDetailAsync(string mobile)
         {
             string query;
-            if(_authRepo.isUserExist(mobile, "registered_user_datail"))
+            if (_authRepo.isUserExist(mobile, "registered_user_datail"))
             {
                 query = string.Format(@"select * from registered_user_datail where mobile = '{0}';", mobile);
-            }else
+            }
+            else
             {
                 query = string.Format(@"select * from service_provider where mobile = '{0}';", mobile);
             }
-            UserModel response = PGDBUtilityAPI.GetUserFromTable(query);
+            UserModel response = await PGDBUtilityAPI.GetUserFromTable(query);
             return response;
 
         }
 
 
         //Add Member
-        public bool AddMemberAsync(MemberModel memberModel, string mob)
+        public async Task<bool> AddMemberAsync(MemberModel memberModel, string mob)
         {
             int id = memberModel.id;
             string column = "";
-            if(id == 1){
+            if (id == 1)
+            {
                 column = "member1";
-            }else if(id == 2){
+            }
+            else if (id == 2)
+            {
                 column = "member2";
-            }else if(id == 3){
+            }
+            else if (id == 3)
+            {
                 column = "member3";
             }
-    
+
             string jsonString = JsonSerializer.Serialize(memberModel);
 
-            string query = string.Format(@"UPDATE dashboard_detail SET {0} = '{1}' WHERE mobile = '{2}';",column, jsonString, mob);
-            if(PGDBUtilityAPI.RunUpdateQuery(query)){
+            string query = string.Format(@"UPDATE dashboard_detail SET {0} = '{1}' WHERE mobile = '{2}';", column, jsonString, mob);
+            if (await PGDBUtilityAPI.RunUpdateQuery(query))
+            {
                 return true;
             }
             return false;
         }
 
         //Remove Member
-        public bool RemoveMemberAsync(int id, string mob)
+        public async Task<bool> RemoveMemberAsync(int id, string mob)
         {
             string column = "";
-            if(id == 1){
+            if (id == 1)
+            {
                 column = "member1";
-            }else if(id == 2){
+            }
+            else if (id == 2)
+            {
                 column = "member2";
-            }else if(id == 3){
+            }
+            else if (id == 3)
+            {
                 column = "member3";
             }
             string query = string.Format(@"UPDATE dashboard_detail SET {0} = NULL WHERE mobile = '{1}';", column, mob);
-            if(PGDBUtilityAPI.RunUpdateQuery(query)){
+            if (await PGDBUtilityAPI.RunUpdateQuery(query))
+            {
                 return true;
             }
             return false;
         }
-    
+
         // Get ALL Member
-        public List<MemberModel> GetAllMemberAsync(string mobile)
+        public async Task<List<MemberModel>> GetAllMemberAsync(string mobile)
         {
             string query = string.Format(@"select member1, member2, member3 from dashboard_detail where mobile = '{0}';", mobile);
-            List<string> list = PGDBUtilityAPI.GetDashboardJsonData(query);
+            List<string> list = await PGDBUtilityAPI.GetDashboardJsonData(query);
             List<MemberModel> MemberList = JsonToListModel.JsonToMember(list);
-            
+
             return MemberList;
         }
 
-//////////
-///Alert Controller Section
-//////////
+        //////////
+        ///Alert Controller Section
+        //////////
 
         //Add Custom Alerts
-        public bool AddAlertAsync(AlertModel alertModel, string mob)
+        public async Task<bool> AddAlertAsync(AlertModel alertModel, string mob)
         {
             int id = alertModel.id;
             string column = "";
-            if(id == 1){
+            if (id == 1)
+            {
                 column = "alert1";
-            }else if(id == 2){
+            }
+            else if (id == 2)
+            {
                 column = "alert2";
-            }else if(id == 3){
+            }
+            else if (id == 3)
+            {
                 column = "alert3";
             }
-    
+
             string jsonString = JsonSerializer.Serialize(alertModel);
 
-            string query = string.Format(@"UPDATE dashboard_detail SET {0} = '{1}' WHERE mobile = '{2}';",column, jsonString, mob);
-            if(PGDBUtilityAPI.RunUpdateQuery(query)){
+            string query = string.Format(@"UPDATE dashboard_detail SET {0} = '{1}' WHERE mobile = '{2}';", column, jsonString, mob);
+            if (await PGDBUtilityAPI.RunUpdateQuery(query))
+            {
                 return true;
             }
             return false;
@@ -109,48 +128,60 @@ namespace server.Repository
 
 
         //Remove Alert
-        public bool RemoveAlertAsync(int id, string mob)
+        public async Task<bool> RemoveAlertAsync(int id, string mob)
         {
             string column = "";
-            if(id == 1){
+            if (id == 1)
+            {
                 column = "alert1";
-            }else if(id == 2){
+            }
+            else if (id == 2)
+            {
                 column = "alert2";
-            }else if(id == 3){
+            }
+            else if (id == 3)
+            {
                 column = "alert3";
             }
             string query = string.Format(@"UPDATE dashboard_detail SET {0} = NULL WHERE mobile = '{1}';", column, mob);
-            if(PGDBUtilityAPI.RunUpdateQuery(query)){
+            if (await PGDBUtilityAPI.RunUpdateQuery(query))
+            {
                 return true;
             }
             return false;
         }
 
 
-
         // Get ALL Alerts
-        public List<AlertModel> GetAllAlertsAsync(string mobile)
+        public async Task<List<AlertModel>> GetAllAlertsAsync(string mobile)
         {
             string query = string.Format(@"select alert1, alert2, alert3 from dashboard_detail where mobile = '{0}';", mobile);
-            List<string> list = PGDBUtilityAPI.GetDashboardJsonData(query);
+            List<string> list = await PGDBUtilityAPI.GetDashboardJsonData(query);
             List<AlertModel> AlertList = JsonToListModel.JsonToAlert(list);
-            
+
             return AlertList;
         }
 
 
         //Save Profile
-        public bool SaveProfileAsync(UserModel userModel, string mobile)
+        public async Task<bool> SaveProfileAsync(UserModel userModel, string mobile)
         {
+
+            
+            // string filePath = await Upload(userModel.file, userModel.file.FileName);
+
+
             string query;
             if (_authRepo.isUserExist(mobile, "registered_user_datail"))
             {
                 query = string.Format(@"Update registered_user_datail set name = '{0}', age = '{1}', gender = '{2}', email = '{3}', adhaar = '{4}' where mobile = '{5}'", userModel.name, userModel.age, userModel.gender, userModel.email, userModel.adhaar, mobile);
-            }else{
+            }
+            else
+            {
                 query = string.Format(@"Update service_provider set name = '{0}', age = '{1}', gender = '{2}', email = '{3}', adhaar = '{4}' where mobile = '{5}'", userModel.name, userModel.age, userModel.gender, userModel.email, userModel.adhaar, mobile);
             }
 
-            if(PGDBUtilityAPI.RunUpdateQuery(query))
+            if ( await PGDBUtilityAPI.RunUpdateQuery(query))
             {
                 return true;
             }
@@ -158,6 +189,39 @@ namespace server.Repository
             {
                 return false;
             }
+        }
+
+
+        //Profile Image Updation
+        public async Task<string> Upload(IFormFile file, string mobile)
+        {
+            string fileNew = Guid.NewGuid().ToString() + "_" + file.FileName;
+            string location1 = "/assets/profile/";
+            string location = "G:/Project 3.0/DangerAlertWebApp/src/assets/profile/";
+
+            var fileNewPath = Path.Combine(location1, fileNew);
+
+
+            var filePath = Path.Combine(location, fileNew);
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+
+            string query;
+            if (_authRepo.isUserExist(mobile, "registered_user_datail"))
+            {
+                query = string.Format(@"Update registered_user_datail set profileurl = '{0}' where mobile = '{1}'", fileNewPath, mobile);
+            }
+            else
+            {
+                query = string.Format(@"Update service_provider set profileurl = '{0}' where mobile = '{1}'", fileNewPath, mobile);
+            }
+
+            await PGDBUtilityAPI.RunUpdateQuery(query);
+
+            return fileNewPath;
+
         }
 
     }

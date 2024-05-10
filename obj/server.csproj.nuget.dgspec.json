@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Angular 3.0\\server\\server.csproj": {}
+    "G:\\Project 3.0\\DangerAlertWebAPI\\server.csproj": {}
   },
   "projects": {
-    "G:\\Angular 3.0\\server\\server.csproj": {
+    "G:\\Project 3.0\\DangerAlertWebAPI\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Angular 3.0\\server\\server.csproj",
+        "projectUniqueName": "G:\\Project 3.0\\DangerAlertWebAPI\\server.csproj",
         "projectName": "server",
-        "projectPath": "G:\\Angular 3.0\\server\\server.csproj",
+        "projectPath": "G:\\Project 3.0\\DangerAlertWebAPI\\server.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "G:\\Angular 3.0\\server\\obj\\",
+        "outputPath": "G:\\Project 3.0\\DangerAlertWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,6 +65,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
+            },
+            "Vonage": {
+              "target": "Package",
+              "version": "[7.2.0, )"
             },
             "npgsql": {
               "target": "Package",

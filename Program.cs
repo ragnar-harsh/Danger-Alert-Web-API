@@ -4,7 +4,11 @@ using Microsoft.IdentityModel.Tokens;
 using server.Repository;
 using server.Utilities;
 
+
+
 var builder = WebApplication.CreateBuilder(args);
+
+
 
 //Enabling JWT Token for Login 
 
@@ -25,6 +29,8 @@ var builder = WebApplication.CreateBuilder(args);
 // });
 
 
+
+
 //JWT Token Configuration (IInd Method)
 builder.Services.AddAuthentication(x => {
     x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -36,10 +42,12 @@ builder.Services.AddAuthentication(x => {
         ValidateIssuerSigningKey = true,
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("DangerAlertAppSecureKey012ForSecurity1234567890afafkhakfhahf")),
         ValidateAudience = false,
-        ValidateIssuer = false,
-        ClockSkew = TimeSpan.Zero
+        ValidateIssuer = false
+        // ClockSkew = TimeSpan.Zero
     };
 });
+
+
 
 
 
@@ -51,13 +59,19 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
+
+
 //Map Repository
 builder.Services.AddTransient<IAuthenticationRepository, AuthenticationRepository>();
 builder.Services.AddTransient<IDashboardRepository, DashboardRepository>();
+builder.Services.AddTransient<IAlertRepository, AlertRepository>();
+
 
 
 //RunTime compilation
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+
+
 
 
 //Add CORS Services
@@ -68,7 +82,11 @@ builder.Services.AddCors(options => {
 });
 
 
+
+
 var app = builder.Build();
+
+
 
 
 //postgresql configuration

@@ -5,15 +5,18 @@ using server.Models;
 
 namespace server.Utilities;
 
-public class PGDBUtilityAPI {
+public class PGDBUtilityAPI
+{
 
     public static ILogger log;
 
     public static string connectionString = CUtility.getConfig().GetConnectionString("PostgresConnStringAPI");
 
-    public static string GetConnectionString(){
+    public static string GetConnectionString()
+    {
 
-        if(connectionString == null || connectionString == string.Empty){
+        if (connectionString == null || connectionString == string.Empty)
+        {
 
             connectionString = CUtility.getConfig().GetConnectionString("PostgresConnStringAPI");
         }
@@ -21,11 +24,13 @@ public class PGDBUtilityAPI {
         return connectionString;
     }
 
-    public static void resetConnectionString(){
+    public static void resetConnectionString()
+    {
         connectionString = string.Empty;
     }
 
-    public static DataTable GetDataTable(string query){
+    public static DataTable GetDataTable(string query)
+    {
         string conString = GetConnectionString();
         DataTable dt = null;
 
@@ -33,46 +38,57 @@ public class PGDBUtilityAPI {
         {
             IDbDataAdapter daPgsql = new NpgsqlDataAdapter(query, postgresConn);
 
-            try{
+            try
+            {
                 DataSet dsPg = new DataSet();
                 log.LogDebug(query);
                 daPgsql.Fill(dsPg);
-                if(dsPg.Tables.Count>0){
+                if (dsPg.Tables.Count > 0)
+                {
                     dt = dsPg.Tables[0];
                 }
             }
-            catch(Exception ex){
+            catch (Exception ex)
+            {
                 log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
             }
-            finally{
-                if(postgresConn.State == ConnectionState.Open){
+            finally
+            {
+                if (postgresConn.State == ConnectionState.Open)
+                {
                     postgresConn.Close();
                 }
             }
-            
+
         }
         return dt;
     }
 
-    public static int ExecuteCommand(string query){
+    public static int ExecuteCommand(string query)
+    {
 
         Int32 rowAffected = -1;
         string conString = GetConnectionString();
 
-        using (NpgsqlConnection postgresConn = new NpgsqlConnection(conString)){
+        using (NpgsqlConnection postgresConn = new NpgsqlConnection(conString))
+        {
 
-            try{
+            try
+            {
                 NpgsqlCommand pgCommand = new NpgsqlCommand(query, postgresConn);
                 pgCommand.Connection.Open();
                 log.LogDebug(query);
                 rowAffected = pgCommand.ExecuteNonQuery();
                 pgCommand.Connection.Close();
             }
-            catch(Exception ex){
+            catch (Exception ex)
+            {
                 log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
             }
-            finally{
-                if(postgresConn.State == ConnectionState.Open){
+            finally
+            {
+                if (postgresConn.State == ConnectionState.Open)
+                {
                     postgresConn.Close();
                 }
             }
@@ -82,27 +98,31 @@ public class PGDBUtilityAPI {
     }
 
 
-    public static string GetStringFromTable(string query){
+    public static string GetStringFromTable(string query)
+    {
         string retval = string.Empty;
-        try{
+        try
+        {
             DataTable dt = GetDataTable(query);
-            if(dt != null && dt.Rows.Count>0){
+            if (dt != null && dt.Rows.Count > 0)
+            {
                 retval = dt.Rows[0][0].ToString();
 
             }
-            
+
         }
-        catch(Exception ex){
+        catch (Exception ex)
+        {
             log.LogError("Query:{0} ::>> {1} || {2}", query, ex.Message, ex.StackTrace);
         }
         return retval;
     }
 
 
-//Get Column Data of Single Row
+    //Get Column Data of Single Row
     public static TokenModel getRowFromTable(string query)
     {
-        string connectionString = GetConnectionString(); // Replace with your actual connection string
+        string connectionString = GetConnectionString();
 
         // SQL command to retrieve a single row (example query)
         string sqlCommandText = query;
@@ -120,30 +140,32 @@ public class PGDBUtilityAPI {
                 try
                 {
                     using (NpgsqlDataReader reader = command.ExecuteReader())
-                {
-                    // Check if there are rows
-                    if (reader.HasRows)
                     {
-                        // Read the first row
-                        reader.Read();
-
-                        // Access data from columns by column name or index
-                        string Name = reader.GetString(reader.GetOrdinal("name"));
-                        string Department = reader.GetString(reader.GetOrdinal("department"));
-                        tokenModel = new TokenModel()
+                        // Check if there are rows
+                        if (reader.HasRows)
                         {
-                            name = Name,
-                            role = Department
-                        };
+                            // Read the first row
+                            reader.Read();
 
+                            // Access data from columns by column name or index
+                            string Name = reader.GetString(reader.GetOrdinal("name"));
+                            string Department = reader.GetString(reader.GetOrdinal("department"));
+                            tokenModel = new TokenModel()
+                            {
+                                name = Name,
+                                role = Department
+                            };
+
+                        }
                     }
                 }
+                catch (Exception ex)
+                {
+                    log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
                 }
-                catch(Exception ex){
-                log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
-                }
-                finally{
-                    if(connection.State == ConnectionState.Open)
+                finally
+                {
+                    if (connection.State == ConnectionState.Open)
                     {
                         connection.Close();
                     }
@@ -154,8 +176,8 @@ public class PGDBUtilityAPI {
     }
 
 
-//Run the Update Query for Dashboard
-    public static bool RunUpdateQuery(string query)
+    //Run the Update Query for Dashboard
+    public static async Task<bool> RunUpdateQuery(string query)
     {
         string connectionString = GetConnectionString();
         using (NpgsqlConnection connection = new NpgsqlConnection(connectionString))
@@ -164,18 +186,22 @@ public class PGDBUtilityAPI {
 
             using (NpgsqlCommand command = new NpgsqlCommand(query, connection))
             {
-                try{
+                try
+                {
                     command.ExecuteNonQuery();
                 }
-                catch(Exception ex){
+                catch (Exception ex)
+                {
                     log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
                     return false;
                 }
-                finally{
-                    if(connection.State == ConnectionState.Open){
+                finally
+                {
+                    if (connection.State == ConnectionState.Open)
+                    {
                         connection.Close();
                     }
-                    
+
                 }
             }
         }
@@ -183,23 +209,26 @@ public class PGDBUtilityAPI {
     }
 
 
-//Get All Json Data From Dashboard
-    public static List<string> GetDashboardJsonData(string query){
-        // string retval = string.Empty;
+    //Get All Json Data From Dashboard
+    public static async Task<List<string>> GetDashboardJsonData(string query)
+    {
         List<string> list = new List<string>();
-        try{
+        try
+        {
             DataTable dt = GetDataTable(query);
-            if(dt != null && dt.Rows.Count>0){
-                for(int i = 0; i < 3 ; i++)
+            if (dt != null && dt.Rows.Count > 0)
+            {
+                for (int i = 0; i < 3; i++)
                 {
                     string retval = dt.Rows[0][i].ToString();
                     list.Add(retval);
                 }
 
             }
-            
+
         }
-        catch(Exception ex){
+        catch (Exception ex)
+        {
             log.LogError("Query:{0} ::>> {1} || {2}", query, ex.Message, ex.StackTrace);
         }
         return list;
@@ -208,7 +237,7 @@ public class PGDBUtilityAPI {
 
 
     //Get User Detail From Table
-    public static UserModel GetUserFromTable(string query)
+    public static async Task<UserModel> GetUserFromTable(string query)
     {
         string connectionString = GetConnectionString();
         string sqlCommandText = query;
@@ -221,47 +250,48 @@ public class PGDBUtilityAPI {
                 try
                 {
                     using (NpgsqlDataReader reader = command.ExecuteReader())
-                {
-                    if (reader.HasRows)
                     {
-                        reader.Read();
-
-                        string Name = reader.GetString(reader.GetOrdinal("name"));
-                        int age = (int)reader.GetValue(reader.GetOrdinal("age"));
-                        // string adhaar = reader.GetString(reader.GetOrdinal("adhaar"));
-                        string adhaar = null; // Initialize adhaar variable with null
-
-                        int adhaarOrdinal = reader.GetOrdinal("adhaar");
-                        
-                        if (!reader.IsDBNull(adhaarOrdinal))
+                        if (reader.HasRows)
                         {
-                            adhaar = reader.GetString(adhaarOrdinal);
+                            reader.Read();
+
+                            string Name = reader.GetString(reader.GetOrdinal("name"));
+                            int age = (int)reader.GetValue(reader.GetOrdinal("age"));
+                            string adhaar = null;
+                            int adhaarOrdinal = reader.GetOrdinal("adhaar");
+
+                            if (!reader.IsDBNull(adhaarOrdinal))
+                            {
+                                adhaar = reader.GetString(adhaarOrdinal);
+                            }
+                            string email = reader.GetString(reader.GetOrdinal("email"));
+                            string gender = reader.GetString(reader.GetOrdinal("gender"));
+                            string filePath = reader.GetString(reader.GetOrdinal("profileurl"));
+                            userModel = new UserModel()
+                            {
+                                name = Name,
+                                age = age,
+                                adhaar = adhaar,
+                                email = email,
+                                gender = gender,
+                                profileurl = filePath,
+
+                            };
+
                         }
-                        string email = reader.GetString(reader.GetOrdinal("email"));
-                        string gender = reader.GetString(reader.GetOrdinal("gender"));
-                        userModel = new UserModel()
-                        {
-                            name = Name,
-                            age = age,
-                            adhaar = adhaar,
-                            email = email,
-                            gender = gender
-
-                        };
-
                     }
                 }
+                catch (Exception ex)
+                {
+                    log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
                 }
-                catch(Exception ex){
-                log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
-                }
-                finally{
-                    if(connection.State == ConnectionState.Open)
+                finally
+                {
+                    if (connection.State == ConnectionState.Open)
                     {
                         connection.Close();
                     }
                 }
-                
             }
         }
         return userModel;

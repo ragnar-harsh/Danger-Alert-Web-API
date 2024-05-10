@@ -7,5 +7,6 @@ namespace server.Models
         public required int age { get; set; }
         public required string gender { get; set; }
         public string adhaar { get; set; }
+        public string profileurl { get; set; } = "";
     }
 }

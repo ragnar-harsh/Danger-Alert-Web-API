@@ -4,5 +4,6 @@ namespace server.Models
     {
         public required string mobile { get; set; }
         public required string otp { get; set; }
+        public required string fireBaseId { get; set; }
     }
 }
