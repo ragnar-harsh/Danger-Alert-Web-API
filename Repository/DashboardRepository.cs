@@ -166,11 +166,6 @@ namespace server.Repository
         //Save Profile
         public async Task<bool> SaveProfileAsync(UserModel userModel, string mobile)
         {
-
-            
-            // string filePath = await Upload(userModel.file, userModel.file.FileName);
-
-
             string query;
             if (_authRepo.isUserExist(mobile, "registered_user_datail"))
             {

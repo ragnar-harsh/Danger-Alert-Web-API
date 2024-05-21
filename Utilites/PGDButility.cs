@@ -1,6 +1,7 @@
 
 using System.Data;
 using Npgsql;
+using server.Helper;
 using server.Models;
 
 namespace server.Utilities;
@@ -123,17 +124,11 @@ public class PGDBUtilityAPI
     public static TokenModel getRowFromTable(string query)
     {
         string connectionString = GetConnectionString();
-
-        // SQL command to retrieve a single row (example query)
         string sqlCommandText = query;
         TokenModel tokenModel = null;
-
-        // Create and open a connection
         using (NpgsqlConnection connection = new NpgsqlConnection(connectionString))
         {
             connection.Open();
-
-            // Create a command with the SQL query and the connection
             using (NpgsqlCommand command = new NpgsqlCommand(sqlCommandText, connection))
             {
                 // Execute the SQL command and retrieve a data reader
@@ -173,6 +168,107 @@ public class PGDBUtilityAPI
             }
         }
         return tokenModel;
+    }
+
+    public static async Task<Coordinate> GetAlertFromTable(string query)
+    {
+        string connectionString = GetConnectionString();
+        string sqlCommandText = query;
+        Coordinate serviceProv = null;
+        using (NpgsqlConnection connection = new NpgsqlConnection(connectionString))
+        {
+            connection.Open();
+            using (NpgsqlCommand command = new NpgsqlCommand(sqlCommandText, connection))
+            {
+                try
+                {
+                    using (NpgsqlDataReader reader = command.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            reader.Read();
+                            string Name = reader.GetString(reader.GetOrdinal("helper_name"));
+                            string firebaseid = reader.GetString(reader.GetOrdinal("firebaseid"));
+                            string mobile = reader.GetString(reader.GetOrdinal("mobile"));
+                            string latitude = reader.GetString(reader.GetOrdinal("latitude"));
+                            string longitude = reader.GetString(reader.GetOrdinal("longitude"));
+                            string user_lat = reader.GetString(reader.GetOrdinal("user_lat"));
+                            string user_long = reader.GetString(reader.GetOrdinal("user_long"));
+                            string user_mob = reader.GetString(reader.GetOrdinal("user_mobile"));
+                            serviceProv = new Coordinate(Name, user_mob, mobile, firebaseid, Convert.ToDouble(latitude), Convert.ToDouble(longitude), user_lat, user_long);
+                        }
+                        else
+                        {
+                            return null;
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
+                }
+                finally
+                {
+                    if (connection.State == ConnectionState.Open)
+                    {
+                        connection.Close();
+                    }
+                }
+            }
+        }
+        return serviceProv;
+    }
+
+    //Get User Location From Table
+    public static async Task<RoutingModel> GetUserLocationFromTable(string query)
+    {
+        string connectionString = GetConnectionString();
+        string sqlCommandText = query;
+        RoutingModel user = null;
+        using (NpgsqlConnection connection = new NpgsqlConnection(connectionString))
+        {
+            connection.Open();
+            using (NpgsqlCommand command = new NpgsqlCommand(sqlCommandText, connection))
+            {
+                try
+                {
+                    using (NpgsqlDataReader reader = command.ExecuteReader())
+                    {
+                        if (reader.HasRows)
+                        {
+                            reader.Read();
+                            string firebaseid = reader.GetString(reader.GetOrdinal("firebaseid"));
+                            string mobile = reader.GetString(reader.GetOrdinal("mobile"));
+                            string latitude = reader.GetString(reader.GetOrdinal("lattitude"));
+                            string longitude = reader.GetString(reader.GetOrdinal("longitude"));
+                            user = new RoutingModel
+                            {
+                                FirebaseId = firebaseid,
+                                Mobile = mobile,
+                                Lattitude = latitude,
+                                Longitude = longitude
+                            };
+                        }
+                        else
+                        {
+                            return null;
+                        }
+                    }
+                }
+                catch (Exception ex)
+                {
+                    log.LogError("Query:{0} ::> {1}||{2}", query, ex.Message, ex.StackTrace);
+                }
+                finally
+                {
+                    if (connection.State == ConnectionState.Open)
+                    {
+                        connection.Close();
+                    }
+                }
+            }
+        }
+        return user;
     }
 
 

@@ -5,10 +5,13 @@ namespace server.Helper
         private Action<object> value;
 
         public string Name { get; set; }
+        public string User_mobile { get; set; }
         public string Mobile { get; set; }
         public string Firebaseid { get; set; }
         public double Latitude { get; set; }
         public double Longitude { get; set; }
+        public string User_lat { get; set; } = "";
+        public string User_long { get; set; } = "";
 
         public Coordinate(string name, string mobile, string firebaseid, double latitude, double longitude)
         {
@@ -17,6 +20,21 @@ namespace server.Helper
             Firebaseid = firebaseid;
             Latitude = latitude;
             Longitude = longitude;
+            User_lat = null;
+            User_long = null;
+            User_mobile = null;
+        }
+        public Coordinate(string name, string user_mob, string mobile, string firebaseid, double latitude, double longitude, string user_lat, string user_long)
+        {
+            Name = name;
+            Mobile = mobile;
+            Firebaseid = firebaseid;
+            Latitude = latitude;
+            Longitude = longitude;
+            User_lat = user_lat;
+            User_long = user_long;
+            User_mobile = user_mob;
+
         }
 
         public Coordinate(Action<object> value)

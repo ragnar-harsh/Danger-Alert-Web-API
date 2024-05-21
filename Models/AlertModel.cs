@@ -5,5 +5,6 @@ namespace server.Models
         public int id { get; set; }
         public required string title { get; set; }
         public required string message { get; set; }
+        public string type { get; set; } = "Custom";
     }
 }

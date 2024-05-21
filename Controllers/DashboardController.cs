@@ -155,7 +155,7 @@ namespace server.Controllers
         }
 
 
-
+// Upload Profile Picture
         [HttpPost("upload")]
         public async Task<IActionResult> Upload(IFormFile file, [FromQuery]string mobile)
         {
