@@ -20,7 +20,7 @@ namespace server.Controllers
 
 // Raise Alert and Find the Nearest Service Provider & send Notification
         [HttpPost("AlertRaised")]
-        public async Task<IActionResult> RaiseAlert([FromQuery] string mobile, [FromQuery] string type)
+        public async Task<IActionResult> RaiseAlert([FromForm] string mobile, [FromForm] string type)
         {
             Coordinate ServiceProvider = await _alertRepo.RaiseAlertAsync(mobile, type);
             await _alertRepo.UpdateAlertTableAsync(mobile, ServiceProvider);

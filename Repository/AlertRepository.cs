@@ -58,6 +58,8 @@ namespace server.Repository
             RoutingModel user_loc = await GetLocationAsync(mobile, type);
             double targetLattitude = Convert.ToDouble(user_loc.Lattitude);
             double targetLongitude = Convert.ToDouble(user_loc.Longitude);
+            // double targetLattitude = 26.84268;
+            // double targetLongitude = 82.48264;
             string query = string.Format(@"select name, mobile, firebaseid, lattitude, longitude from service_provider where department = '{0}' and mobile <> '{1}';", type, mobile);
             DataTable dt = PGDBUtilityAPI.GetDataTable(query);
             if (dt != null && dt.Rows.Count > 0)
@@ -72,16 +74,20 @@ namespace server.Repository
                 currServProvider.User_long = Convert.ToString(targetLongitude);
 
                 int index = -1;
-                if(type == "Medical"){
+                if (type == "Medical")
+                {
                     index = 1;
                 }
-                else if(type == "Fire"){
+                else if (type == "Fire")
+                {
                     index = 0;
                 }
-                else if(type == "Police"){
+                else if (type == "Police")
+                {
                     index = 3;
                 }
-                else if(type == "Traffic"){
+                else if (type == "Traffic")
+                {
                     index = 2;
                 }
 
@@ -95,17 +101,18 @@ namespace server.Repository
 
         }
 
-//Get Location from Table
+        //Get Location from Table
         public async Task<RoutingModel> GetLocationAsync(string mobile, string type)
         {
             string table = _authRepo.isUserExist(mobile, "registered_user_datail") ? "registered_user_datail" : "service_provider";
             string query = string.Format(@"select mobile, firebaseid, lattitude, longitude from {0} where mobile = '{1}'", table, mobile);
+            Console.WriteLine(query);
             RoutingModel routingModel = await PGDBUtilityAPI.GetUserLocationFromTable(query);
             return routingModel;
         }
 
 
-// Send Notification to Users
+        // Send Notification to Users
         public async Task SendNotificationAlert(string firebaseid, int index, string type)
         {
             try
@@ -147,23 +154,28 @@ namespace server.Repository
 
         public async Task<bool> UpdateLocationAsync(RoutingModel routingModel)
         {
-            string tableName = _authRepo.isUserExist(routingModel.Mobile, "registered_user_datail") ? "registered_user_datail" : "service_provider";
-
-            string query = string.Format(@"UPDATE {0} SET lattitude = '{1}', longitude = '{2}' WHERE mobile = '{3}';", tableName, routingModel.Lattitude, routingModel.Longitude, routingModel.Mobile);
-
-            if (await PGDBUtilityAPI.RunUpdateQuery(query))
+            // Console.WriteLine(routingModel.Lattitude);
+            if (routingModel.Longitude != "undefined" && routingModel.Lattitude != "undefined")
             {
-                return true;
+                string tableName = _authRepo.isUserExist(routingModel.Mobile, "registered_user_datail") ? "registered_user_datail" : "service_provider";
+
+                string query = string.Format(@"UPDATE {0} SET lattitude = '{1}', longitude = '{2}' WHERE mobile = '{3}';", tableName, routingModel.Lattitude, routingModel.Longitude, routingModel.Mobile);
+
+                if (await PGDBUtilityAPI.RunUpdateQuery(query))
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
             }
-            else
-            {
-                return false;
-            }
+            return false;
         }
 
         public async Task RaiseCustomAlertAsync(string mobile, AlertModel alertModel, int index)
         {
-            if(alertModel != null)
+            if (alertModel != null)
             {
                 notifications.Add(new NotificationModel
                 {
@@ -178,7 +190,7 @@ namespace server.Repository
             {
                 string query = string.Format(@"select firebaseid from registered_user_datail where mobile = '{0}';", member.mobile);
                 string fireId = PGDBUtilityAPI.GetStringFromTable(query);
-                if(!fireId.IsNullOrEmpty() || fireId != null || fireId != "null")
+                if (!fireId.IsNullOrEmpty() || fireId != null || fireId != "null")
                 {
                     await SendNotificationAlert(fireId, index, "custom");
                 }
@@ -203,10 +215,11 @@ namespace server.Repository
             string column = type == "Service User" ? "user_mobile" : "mobile";
             string query = string.Format(@"select * from alert_table where {0} = '{1}'", column, mobile);
             Coordinate Service = await PGDBUtilityAPI.GetAlertFromTable(query);
-            if(Service != null){
+            if (Service != null)
+            {
                 return Service;
             }
-            else 
+            else
             {
                 Console.WriteLine("No alert raised ");
                 return null;
@@ -221,7 +234,7 @@ namespace server.Repository
             return;
         }
 
-     // Alternate function to send Notification
+        // Alternate function to send Notification
         // public async Task<string> SendPostRequest(string url, object headers, object bodyParameters)
         // {
         //     using (HttpClient client = new HttpClient())
